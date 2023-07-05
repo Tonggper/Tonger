@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Bridgetonger'
-copyright = '2022, Tonger'
-author = 'Tonger'
-release = 'v1.0'
+project = 'Tonger'
+copyright = '2023, tonger'
+author = 'tonger'
+release = 'V1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -19,7 +19,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh_CN'
+# language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
