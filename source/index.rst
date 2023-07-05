@@ -1,15 +1,15 @@
-.. Bridgetonger documentation master file, created by
-   sphinx-quickstart on Wed Dec  7 10:19:23 2022.
+.. Tonger documentation master file, created by
+   sphinx-quickstart on Wed Jul  5 13:28:49 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Bridgetonger's documentation!
-========================================
+Welcome to Tonger's documentation!
+==================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
-   
+   :caption: Contents:
+  
    Daily_Records
    Tonger_Videos
 
