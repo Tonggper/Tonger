@@ -10,8 +10,6 @@ Welcome to Tonger's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-  
-   Daily_Records
    Tonger_Videos
 
 
